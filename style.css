@@ -1,15 +1,3 @@
-*, :after, :before {
-  box-sizing: border-box;
-}
-
-.MuiButton-contained {
-    color: red;
-    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
-    background-color: #e0e0e0;
-}
-
-
-
 .sc-dlfnuX{
   align-items: center;
   border: 0;
@@ -40,16 +28,8 @@ p{
     
  
 }
-/*.MuiButtonBase-root{
+.MuiButtonBase-root{
     background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
-    color: white;
-}*/
-
-.MuiButton-label {
-  width: 100%;
-  display: inherit;
-  align-items: inherit;
-  justify-content: inherit;
 }
 
 html { 
@@ -64,5 +44,7 @@ body {
   background: url(Background_mint.png) no-repeat center fixed;
 }
 
-
+button{
+  color: red;
+}
 
