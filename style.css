@@ -34,8 +34,8 @@ p{
 }
 
 .MuiButton-label{
-  color: red;
-  justify-content: center;
+  color: white;
+  margin-left: auto;
 }
 
 html { 
