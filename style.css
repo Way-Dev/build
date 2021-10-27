@@ -33,9 +33,11 @@ p{
     color: white;
 }
 
-.MuiButton-label{
-  color: white;
-  margin-left: auto;
+.MuiButton-label {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
 }
 
 html { 
