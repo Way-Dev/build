@@ -30,6 +30,11 @@ p{
 }
 .MuiButtonBase-root{
     background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    color: white;
+}
+
+.MuiButton-label{
+  color: white;
 }
 
 html { 
@@ -44,7 +49,5 @@ body {
   background: url(Background_mint.png) no-repeat center fixed;
 }
 
-button{
-  color: red;
-}
+
 
