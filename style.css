@@ -86,14 +86,15 @@ button {
   cursor: pointer;
 }
 
-p{
+/*p{
     font-family: 'SF Pixelate', sans-serif;
     text-shadow:0 0 20px black,2px 3px 3px #141414, 0 0 100px #00D4D1;color:white;
     font-size: 25px;
     justify-content: center;
     
  
-}
+}*/
+
 /*.MuiButtonBase-root{
     background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
     color: white;
