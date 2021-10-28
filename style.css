@@ -1,5 +1,7 @@
-
 @font-face {
-    font-family: 'SF Pixelate';
-    src: local('MSF Pixelate'), url(fonts/SF\ Pixelate.ttf) format('ttf');
-  }
+  font-family: 'SF Pixelate';
+  src: url('SFPixelate.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
